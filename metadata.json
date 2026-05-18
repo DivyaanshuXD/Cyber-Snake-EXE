@@ -1,0 +1,6 @@
+{
+  "name": "Neon Snake Arcade",
+  "description": "An immersive dual-experience digital environment featuring a cyber-arcade Snake game and a persistent AI-generated background music player.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
